@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Fırat Proje\Hafta1_uyuglama1\Hafta1_uyuglama1\bin\Debug\Hafta1_uyuglama1.exe.config
+C:\Users\HP\Desktop\Fırat Proje\Hafta1_uyuglama1\Hafta1_uyuglama1\bin\Debug\Hafta1_uyuglama1.exe
+C:\Users\HP\Desktop\Fırat Proje\Hafta1_uyuglama1\Hafta1_uyuglama1\bin\Debug\Hafta1_uyuglama1.pdb
+C:\Users\HP\Desktop\Fırat Proje\Hafta1_uyuglama1\Hafta1_uyuglama1\obj\Debug\Hafta1_uyuglama1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Fırat Proje\Hafta1_uyuglama1\Hafta1_uyuglama1\obj\Debug\Hafta1_uyuglama1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Fırat Proje\Hafta1_uyuglama1\Hafta1_uyuglama1\obj\Debug\Hafta1_uyuglama1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Fırat Proje\Hafta1_uyuglama1\Hafta1_uyuglama1\obj\Debug\Hafta1_uyuglama1.exe
+C:\Users\HP\Desktop\Fırat Proje\Hafta1_uyuglama1\Hafta1_uyuglama1\obj\Debug\Hafta1_uyuglama1.pdb
